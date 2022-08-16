@@ -35,7 +35,7 @@
 - Order details page
 - Mark orders as delivered option
 
-## Tech Stack 💻
+## Tech Stack 
 
 - [React.js](https://reactjs.org/)
 - [Node.js](https://nodejs.org/en/)
